@@ -7,3 +7,6 @@
 [submodule "worker-service"]
 	path = worker-service
 	url = https://github.com/sreeni7799/movie-sentiment-worker.git
+[submodule "ml-service"]
+	path = ml-service
+	url = https://github.com/sreeni7799/movie-sentiment-backend.git
