@@ -1,8 +1,8 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/sreeni7799/movie-sentiment-frontend.git
-[submodule "ml_service"]
-	path = ml_service
+[submodule "ml-service"]
+	path = ml-service
 	url = https://github.com/sreeni7799/movie-sentiment-backend.git
 [submodule "api-service"]
 	path = api-service
